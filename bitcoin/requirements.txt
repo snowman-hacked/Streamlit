@@ -2,4 +2,3 @@ pyupbit
 mplfinance
 pandas
 matplotlib
-matplotlib.pyplot
